@@ -1,0 +1,8 @@
+git add -A
+git status
+git commit -m "initial commit"
+git switch branch_name
+git branch branch_name
+git push origin main
+git pull
+git add file_name
